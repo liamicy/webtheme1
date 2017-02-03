@@ -1,0 +1,134 @@
+/* This Stylesheet was created by Liam McClelland on 03/02/2017 */
+
+
+/* START HEADER */
+
+header {
+	background:#52A0DB;
+	color:White;
+	padding:5px 15px 5px 15px;
+}
+
+header nav p {
+	font-family:Oxygen;
+	margin:0;
+	display:inline;
+}
+
+header nav ul {
+	margin:0;
+	display:inline;
+	padding-left:80%;
+}
+
+header nav ul li {
+	display:inline-block;
+	list-style-type: none;
+	background:transparent;
+	padding:5px;
+	font-family:arial;
+	font-size:15px;
+}
+
+header a {
+	color: white;
+	text-decoration: none;
+	-moz-transition: color 0.2s linear;
+	-o-transition: color 0.2s linear;
+	-webkit-transition: color 0.2s linear;
+	-khtml-transition: color 0.2s linear;
+	-ms-transition: color 0.2s linear;
+	transtion: color 0.2s linear;
+}
+
+header nav ul li a:hover {
+	color:grey;
+	-moz-transition: color 0.2s linear;
+	-o-transition: color 0.2s linear;
+	-webkit-transition: color 0.2s linear;
+	-khtml-transition: color 0.2s linear;
+	-ms-transition: color 0.2s linear;
+	transtion: color 0.2s linear;
+}
+
+/* END HEADER */
+
+/* START BANNER */
+.banner {
+	width:auto;
+	height:263px; 
+	background:lightyellow;
+	background-image: url('file:///Users/liammcclelland/Documents/website%202/images/special-delivery.jpg');
+	text-align: center;
+	/*padding:100px; */
+	border-bottom: 1px dashed #999;
+}
+
+.banner {
+	font-family:Sansita;
+	font-size:40px;
+	color: #f2f2f2;
+	text-shadow: 2px 2px 1px black;
+	margin:0;
+}
+
+.placeholder {
+	padding:100px;
+	margin:0;
+}
+/* END BANNER */
+
+/*START BODY */
+
+#body {
+	background:white;
+}
+body {
+	margin:0;
+	width:auto;
+	height:50px;
+	background:powderblue; 
+}
+
+.bplaceholder {
+	text-align: center;
+	padding:117px 252px;
+	font-family:Courier;
+	color: #999;
+	margin:0;
+}
+
+/* END BODY */
+
+
+/* START FOOTER */
+footer {
+	background:#52A0DB;
+	height:50px;
+	width:auto;
+	margin:0;
+	text-align:center;
+	padding:50px;
+	color:white;
+	font-family:Arial;
+}
+
+footer a {
+	color:white;
+	text-decoration:underline;
+}
+
+footer a:hover {
+	text-shadow:1px 1px 1px #666;
+	text-decoration:none;
+}
+footer p {
+	padding:0px;
+	margin:0;
+}
+
+.psmall {
+	font-size:13px;
+}
+
+/* END FOOTER */
