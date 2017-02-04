@@ -1,8 +1,3 @@
-/* This Stylesheet is apart of the 'MY Stamp Collection website and was created by Liam McClelland on 03/02/2017 */
-
-
-/* START HEADER */
-
 header {
 	background:#52A0DB;
 	color:White;
@@ -52,71 +47,6 @@ header nav ul li a:hover {
 }
 
 /* END HEADER */
-
-/* START BANNER */
-.banner {
-	width:auto;
-	height:263px; 
-	background:lightyellow;
-
-/*Options for background image:
-1. special-delivery.jpg
-2. school.jpg
-3. diamond-upholstery.jpg;
-*/
-	background-image: url('file:///Users/liammcclelland/Documents/webtheme1/Theme-1/images/special-delivery.jpg');
-	text-align: center;
-	/*padding:100px; */
-	border-bottom: 1px dashed #999;
-}
-
-.banner {
-	font-family:Sansita;
-	font-size:40px;
-	color: #f2f2f2;
-	text-shadow: 2px 2px 1px black;
-	margin:0;
-}
-
-.placeholder {
-	padding:100px;
-	margin:0;
-}
-/* END BANNER */
-
-/*START BODY */
-
-#body {
-	background:white;
-}
-body {
-	margin:0;
-	width:auto;
-	height:50px;
-	background:powderblue; 
-}
-
-.nocsstext {
-	visibility: hidden;
-	position:absolute;
-	font-size:30px;
-}
-
-.nocss {
-	visability: hidden;
-	position:absolute;
-}
-
-.bplaceholder {
-	text-align: center;
-	padding:117px 252px;
-	font-family:Courier;
-	color: #999;
-	margin:0;
-}
-
-/* END BODY */
-
 
 /* START FOOTER */
 footer {

@@ -4,7 +4,7 @@
 /* START HEADER */
 
 header {
-	background:#ff4f4f;
+	background:#52A0DB;
 	color:White;
 	padding:10px 15px 10px 15px;
 }
@@ -64,7 +64,7 @@ header nav ul li a:hover {
 2. school.jpg
 3. diamond-upholstery.jpg;
 */
-	background-image: url('file:///Users/liammcclelland/Documents/webtheme1/Theme-1/images/science.jpg');
+	background-image: url('file:///Users/liammcclelland/Documents/webtheme1/Theme-1/images/special-delivery.jpg');
 	text-align: center;
 	/*padding:100px; */
 	border-bottom: 1px dashed #999;
@@ -120,7 +120,7 @@ body {
 
 /* START FOOTER */
 footer {
-	background:#ff4f4f;
+	background:#52A0DB;
 	height:50px;
 	width:auto;
 	margin:0;
