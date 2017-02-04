@@ -96,6 +96,12 @@ body {
 	background:powderblue; 
 }
 
+.nocss {
+	visibility: hidden;
+	position:absolute;
+	font-size:30px;
+}
+
 .bplaceholder {
 	text-align: center;
 	padding:117px 252px;
