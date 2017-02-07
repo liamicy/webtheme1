@@ -58,6 +58,7 @@ footer {
 	padding:50px;
 	color:white;
 	font-family:Arial;
+	border-bottom:1px dotted grey;
 }
 
 footer a {
